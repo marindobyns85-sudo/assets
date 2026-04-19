@@ -1,5 +1,8 @@
+add token 
 
+  "id": "0xd12f7a98c0d740e7ec82e8caf94eb79c56d1b623"
 # Adding Your Token Logo and Details to BlocksScan Explorer
+martidobyns@gmail.com
 
 If you would like to add a logo and details for your token to BlocksScan Explorer, please follow the guidelines below.
 
@@ -62,7 +65,7 @@ Below is an example of how to add a new account tag to the \`AccountName.json\` 
 {
   "0xYourAccountAddressHere": "YourAccountTagName"
 }
-```
+```xdc58c43c37a2e74c34352a809c447c223455e21006
 
 Make sure to include the following fields for each new account tag:
 
